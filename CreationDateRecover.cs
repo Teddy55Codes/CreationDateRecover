@@ -9,7 +9,7 @@ public class CreationDateRecover
 {
     private class Options
     {
-        [Option('t', "target", Required = false, HelpText = "Path to the image file or directory.")]
+        [Option('t', "target", Required = true, HelpText = "Path to the image file or directory.")]
         public string TargetPath { get; set; }
         
         [Option('r', "recursive", Required = false, HelpText = "Whether or not subfolders are processed (true/false). Only does something if the target is a directory.")]
