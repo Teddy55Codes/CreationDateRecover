@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationDateRecover", "CreationDateRecover\CreationDateRecover.csproj", "{FF9DF06A-7049-4006-8E0E-C63930AEC6C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationDateRecover", "CreationDateRecover.csproj", "{FF9DF06A-7049-4006-8E0E-C63930AEC6C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
